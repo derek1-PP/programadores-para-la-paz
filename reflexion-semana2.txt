@@ -1,0 +1,1 @@
+Durante esta actividad aprendí a usar la terminal para crear carpetas y archivos mediante comandos. También entendí cómo moverme entre directorios y cómo utilizar herramientas básicas que usan los programadores para organizar proyectos.
