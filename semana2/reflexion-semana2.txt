@@ -1,1 +1,11 @@
-Durante esta actividad aprendí a usar la terminal para crear carpetas y archivos mediante comandos. También entendí cómo moverme entre directorios y cómo utilizar herramientas básicas que usan los programadores para organizar proyectos.
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+
+Porque Permite manipular, buscar y organizar archivos masivamente mediante comandos rápidos y precisos.
+Mejora el control del proyecto al integrarse perfectamente con herramientas como Git.
+Otorga un entendimiento profundo de la estructura real del sistema de archivos.
+Garantiza un entorno de trabajo uniforme sin importar el sistema operativo usado.
+
+Durante esta actividad aprendí a usar la terminal para crear carpetas y archivos mediante comandos. 
+También entendí cómo moverme entre directorios y cómo utilizar herramientas básicas que usan los programadores para organizar proyectos.
+También aprendí que estos son proceso que a futuro nos harán ahorrar tiempo y tener mas seguridad y control de nuestros datos.
+
