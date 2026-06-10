@@ -1,0 +1,5 @@
+REFLEXIÓN SEMANA 6
+
+Durante esta semana aprendí a trabajar con Express.js para crear servidores web y definir rutas que responden a solicitudes HTTP. También comprendí cómo iniciar un servidor, probar sus endpoints y organizar mejor un proyecto de Node.js.
+
+Además, reforcé el uso de Git y GitHub para guardar cambios, realizar commits y sincronizar mi trabajo con un repositorio remoto. Estos conocimientos son importantes para el desarrollo de aplicaciones web y para el trabajo colaborativo en proyectos de software.
