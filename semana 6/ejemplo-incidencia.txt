@@ -1,0 +1,14 @@
+Prueba endpoint /incidencia
+
+Solicitud enviada:
+{
+  "tipo":"Acceso",
+  "descripcion":"No puedo ingresar al sistema"
+}
+
+Respuesta recibida:
+{
+  "mensaje":"Incidencia registrada",
+  "tipo":"Acceso",
+  "descripcion":"No puedo ingresar al sistema"
+}

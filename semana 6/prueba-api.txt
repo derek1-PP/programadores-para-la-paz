@@ -1,0 +1,14 @@
+Prueba endpoint /registro
+
+Solicitud enviada:
+{
+  "nombre":"Juan",
+  "mensaje":"Hola"
+}
+
+Respuesta recibida:
+{
+  "estado":"Datos recibidos",
+  "nombre":"Juan",
+  "mensaje":"Hola"
+}
