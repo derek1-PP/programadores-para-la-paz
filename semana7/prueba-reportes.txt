@@ -1,0 +1,16 @@
+Prueba realizada:
+
+1. Se ejecutó el servidor con el comando:
+   node server.js
+
+2. El servidor respondió:
+   "Servidor ejecutándose en puerto 3000"
+
+3. Se accedió desde el navegador a:
+   http://localhost:3000/reportes
+
+4. La respuesta obtenida fue:
+   []
+
+Resultado:
+La ruta GET /reportes funciona correctamente y devuelve la lista de reportes almacenados.

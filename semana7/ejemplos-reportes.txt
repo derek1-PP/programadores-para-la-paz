@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+"tipo": "Seguridad",
+"descripcion": "Luminaria dañada en el parque principal"
+}
+
+Ejemplo 2:
+{
+"tipo": "Ambiente",
+"descripcion": "Acumulación de residuos en una zona comunitaria"
+}
