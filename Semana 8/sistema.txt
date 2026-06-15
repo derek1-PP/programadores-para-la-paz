@@ -1,0 +1,11 @@
+Comando: uname -a
+
+Este comando muestra información detallada del sistema operativo, como el nombre del sistema, versión del kernel, arquitectura y fecha de compilación.
+
+Comando: whoami
+
+Este comando muestra el nombre del usuario que está utilizando actualmente el sistema.
+
+Importancia:
+
+Conocer la información del sistema permite administrar servidores de manera más eficiente, verificar configuraciones, identificar usuarios activos y solucionar problemas relacionados con el sistema operativo.
