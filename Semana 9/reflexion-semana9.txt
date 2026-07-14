@@ -1,0 +1,5 @@
+Es importante que las plataformas tecnológicas funcionen de manera estable porque muchas personas dependen de ellas para acceder a información y realizar solicitudes. Si el servidor falla, los usuarios no podrán utilizar la plataforma cuando la necesiten.
+
+También es importante proteger la información y mantener el servidor seguro para evitar pérdidas de datos o accesos no autorizados. Revisar los registros y monitorear el funcionamiento ayuda a detectar problemas a tiempo.
+
+Durante esta actividad aprendí que Node.js y Express permiten crear un servidor sencillo y que mantenerlo estable es fundamental para ofrecer un servicio confiable a la comunidad.
