@@ -1,0 +1,12 @@
+Las dos primeras tareas que realizaría son:
+
+1. Permitir registrar una incidencia.
+2. Enviar una notificación cuando se registre un nuevo reporte.
+
+Son las más importantes porque permiten iniciar el proceso y avisar al equipo para hacer seguimiento.
+
+Para mí una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada.
+- Quedó registrada en Git.
