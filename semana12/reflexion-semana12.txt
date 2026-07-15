@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede ayudar a mejorar la participación ciudadana cuando se utiliza de forma 
+responsable. Herramientas como las bases de datos, Node.js y GitHub permiten organizar mejor la información y trabajar de
+manera colaborativa.
+
+También comprendí la importancia de proteger los datos personales y de utilizar automatizaciones solo para información no 
+sensible. El proyecto "Petición en 3 Clics" muestra cómo una herramienta sencilla puede facilitar que una comunidad
+organice sus causas y haga seguimiento a sus apoyos.
+
+
+Este curso me permitió entender que la tecnología puede convertirse en una herramienta útil para fortalecer la organización
+comunitaria y promover la participación de las personas.
