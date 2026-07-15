@@ -1,0 +1,7 @@
+La plataforma tendría un formulario para crear una nueva causa con título, descripción y fecha.
+
+También mostraría una lista de las causas disponibles para que cualquier persona pueda conocerlas.
+
+Cada causa tendría un botón para apoyar la iniciativa y un contador que indique cuántos apoyos ha recibido.
+
+La información personal de los usuarios no sería visible para proteger su privacidad.

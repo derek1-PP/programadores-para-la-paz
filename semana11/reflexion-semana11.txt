@@ -1,0 +1,9 @@
+Una plataforma que promueve la participación ciudadana necesita una base de datos para guardar la información de manera
+organizada y facilitar su consulta. También requiere autenticación para que solo las personas autorizadas puedan acceder 
+a funciones importantes.
+
+Proteger la información es fundamental para cuidar la privacidad de los usuarios y evitar el uso indebido de sus datos. 
+Esto genera mayor confianza en la plataforma y permite que más personas participen de forma segura.
+
+Durante esta actividad aprendí que una buena organización de los datos y la seguridad son esenciales para construir 
+herramientas útiles para la comunidad.
